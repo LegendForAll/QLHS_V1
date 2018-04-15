@@ -1,0 +1,12 @@
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1.exe.config
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1.exe
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.Form1.resources
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.Resources.resources
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.exe
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.Frm_AddStudent.resources
