@@ -10,3 +10,15 @@ D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.exe
 D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.xml
 D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.pdb
 D:\WinFormC#\QLHS_V1\QLHS_V1\obj\Debug\QLHS_V1.Frm_AddStudent.resources
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1BUS.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DTO.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\Utility.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DAL.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1BUS.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1BUS.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DTO.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DTO.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\Utility.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\Utility.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DAL.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1\bin\Debug\QLHS_V1DAL.xml

@@ -26,8 +26,10 @@ Partial Class Frm_AddStudent
         Me.Panel1 = New System.Windows.Forms.Panel()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.Panel2 = New System.Windows.Forms.Panel()
+        Me.cbx_Gender = New System.Windows.Forms.ComboBox()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Panel3 = New System.Windows.Forms.Panel()
+        Me.dtp_Brithday = New System.Windows.Forms.DateTimePicker()
         Me.Label3 = New System.Windows.Forms.Label()
         Me.Panel4 = New System.Windows.Forms.Panel()
         Me.Label4 = New System.Windows.Forms.Label()
@@ -35,8 +37,8 @@ Partial Class Frm_AddStudent
         Me.Panel5 = New System.Windows.Forms.Panel()
         Me.Label5 = New System.Windows.Forms.Label()
         Me.tbx_Student_ID = New System.Windows.Forms.TextBox()
-        Me.dtp_Brithday = New System.Windows.Forms.DateTimePicker()
-        Me.cbx_Gender = New System.Windows.Forms.ComboBox()
+        Me.btn_Enter = New System.Windows.Forms.Button()
+        Me.btn_EnterClose = New System.Windows.Forms.Button()
         Me.Panel1.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -78,6 +80,14 @@ Partial Class Frm_AddStudent
         Me.Panel2.Size = New System.Drawing.Size(337, 44)
         Me.Panel2.TabIndex = 2
         '
+        'cbx_Gender
+        '
+        Me.cbx_Gender.FormattingEnabled = True
+        Me.cbx_Gender.Location = New System.Drawing.Point(207, 13)
+        Me.cbx_Gender.Name = "cbx_Gender"
+        Me.cbx_Gender.Size = New System.Drawing.Size(121, 21)
+        Me.cbx_Gender.TabIndex = 3
+        '
         'Label2
         '
         Me.Label2.AutoSize = True
@@ -95,6 +105,15 @@ Partial Class Frm_AddStudent
         Me.Panel3.Name = "Panel3"
         Me.Panel3.Size = New System.Drawing.Size(337, 44)
         Me.Panel3.TabIndex = 3
+        '
+        'dtp_Brithday
+        '
+        Me.dtp_Brithday.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
+        Me.dtp_Brithday.Location = New System.Drawing.Point(116, 10)
+        Me.dtp_Brithday.Name = "dtp_Brithday"
+        Me.dtp_Brithday.Size = New System.Drawing.Size(212, 20)
+        Me.dtp_Brithday.TabIndex = 6
+        Me.dtp_Brithday.Value = New Date(2018, 4, 20, 0, 0, 0, 0)
         '
         'Label3
         '
@@ -157,28 +176,31 @@ Partial Class Frm_AddStudent
         Me.tbx_Student_ID.Size = New System.Drawing.Size(212, 20)
         Me.tbx_Student_ID.TabIndex = 0
         '
-        'dtp_Brithday
+        'btn_Enter
         '
-        Me.dtp_Brithday.Format = System.Windows.Forms.DateTimePickerFormat.[Short]
-        Me.dtp_Brithday.Location = New System.Drawing.Point(116, 10)
-        Me.dtp_Brithday.Name = "dtp_Brithday"
-        Me.dtp_Brithday.Size = New System.Drawing.Size(212, 20)
-        Me.dtp_Brithday.TabIndex = 6
-        Me.dtp_Brithday.Value = New Date(2018, 4, 20, 0, 0, 0, 0)
+        Me.btn_Enter.Location = New System.Drawing.Point(167, 295)
+        Me.btn_Enter.Name = "btn_Enter"
+        Me.btn_Enter.Size = New System.Drawing.Size(75, 23)
+        Me.btn_Enter.TabIndex = 6
+        Me.btn_Enter.Text = "Enter"
+        Me.btn_Enter.UseVisualStyleBackColor = True
         '
-        'cbx_Gender
+        'btn_EnterClose
         '
-        Me.cbx_Gender.FormattingEnabled = True
-        Me.cbx_Gender.Location = New System.Drawing.Point(207, 13)
-        Me.cbx_Gender.Name = "cbx_Gender"
-        Me.cbx_Gender.Size = New System.Drawing.Size(121, 21)
-        Me.cbx_Gender.TabIndex = 3
+        Me.btn_EnterClose.Location = New System.Drawing.Point(261, 295)
+        Me.btn_EnterClose.Name = "btn_EnterClose"
+        Me.btn_EnterClose.Size = New System.Drawing.Size(106, 23)
+        Me.btn_EnterClose.TabIndex = 7
+        Me.btn_EnterClose.Text = "Enter and Close"
+        Me.btn_EnterClose.UseVisualStyleBackColor = True
         '
         'Frm_AddStudent
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(388, 330)
+        Me.Controls.Add(Me.btn_EnterClose)
+        Me.Controls.Add(Me.btn_Enter)
         Me.Controls.Add(Me.Panel5)
         Me.Controls.Add(Me.Panel4)
         Me.Controls.Add(Me.Panel3)
@@ -216,4 +238,6 @@ Partial Class Frm_AddStudent
     Friend WithEvents Panel5 As Panel
     Friend WithEvents Label5 As Label
     Friend WithEvents tbx_Student_ID As TextBox
+    Friend WithEvents btn_Enter As Button
+    Friend WithEvents btn_EnterClose As Button
 End Class

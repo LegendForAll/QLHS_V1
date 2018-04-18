@@ -1,0 +1,9 @@
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\bin\Debug\QLHS_V1DTO.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\bin\Debug\QLHS_V1DTO.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\bin\Debug\QLHS_V1DTO.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.Resources.resources
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DTO\obj\Debug\QLHS_V1DTO.pdb

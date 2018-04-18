@@ -127,6 +127,20 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QLHS_V1BUS\QLHS_V1BUS.vbproj">
+      <Project>{3c77d4a2-8d42-4476-afdf-4bb1bff9dad5}</Project>
+      <Name>QLHS_V1BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\QLHS_V1DTO\QLHS_V1DTO.vbproj">
+      <Project>{4a354d6e-708c-4475-ab99-26bd3e3fa557}</Project>
+      <Name>QLHS_V1DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utility\Utility.vbproj">
+      <Project>{5bc2bdab-233c-4562-a2ff-0c0467ccfd3d}</Project>
+      <Name>Utility</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

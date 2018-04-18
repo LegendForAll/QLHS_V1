@@ -1,0 +1,9 @@
+D:\WinFormC#\QLHS_V1\Utility\bin\Debug\Utility.dll
+D:\WinFormC#\QLHS_V1\Utility\bin\Debug\Utility.pdb
+D:\WinFormC#\QLHS_V1\Utility\bin\Debug\Utility.xml
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.Resources.resources
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.dll
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.xml
+D:\WinFormC#\QLHS_V1\Utility\obj\Debug\Utility.pdb

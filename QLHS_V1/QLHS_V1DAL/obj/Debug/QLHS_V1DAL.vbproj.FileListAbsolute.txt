@@ -1,0 +1,15 @@
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DAL.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DAL.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DAL.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DTO.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\Utility.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DTO.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\QLHS_V1DTO.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\Utility.pdb
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\bin\Debug\Utility.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.vbprojResolveAssemblyReference.cache
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.Resources.resources
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.vbproj.GenerateResource.Cache
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.dll
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.xml
+D:\WinFormC#\QLHS_V1\QLHS_V1DAL\obj\Debug\QLHS_V1DAL.pdb
